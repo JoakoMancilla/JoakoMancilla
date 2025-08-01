@@ -10,10 +10,7 @@
 
 <p>
 Soy <b>Joaquin Mancilla</b>, estudiante de Ingeniería en Informática apasionado por el desarrollo web y la creación de videojuegos.  
-Me encuentro en un proceso constante de aprendizaje, explorando tecnologías como <b>React</b>, <b>Tailwind</b>, <b>MongoDB</b>, y motores de juegos como <b>Unity</b> y <b>Godot</b>.  
-Disfruto combinando creatividad y funcionalidad para construir experiencias digitales memorables.  
-Aunque mi proyecto personal <i>Baddy Scripts</i> está en pausa, sigo desarrollando nuevas ideas y mejorando mis habilidades cada día.  
-Creo firmemente en compartir conocimiento y crecer junto a la comunidad tecnológica.  
+Me encuentro en un proceso constante de aprendizaje, explorando tecnologías como <b>React</b>, <b>Tailwind</b>, <b>MongoDB</b>, y motores de juegos como <b>Unity</b>.  
 </p>
 
 ---
