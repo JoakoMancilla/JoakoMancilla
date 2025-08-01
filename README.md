@@ -10,7 +10,7 @@
 
 <p>
 Soy <b>Joaquin Mancilla</b>, estudiante de Ingeniería en Informática apasionado por el desarrollo web y la creación de videojuegos.  
-Me encuentro en un proceso constante de aprendizaje, explorando tecnologías como <b>React</b>, <b>Tailwind</b>, <b>MongoDB</b>, y motores de juegos como <b>Unity</b>.  
+Me encuentro en un proceso constante de aprendizaje, explorando tecnologías como <b>React</b>, <b>Python</b>, <b>MongoDB</b>,<b>Javascript</b>, motores de juegos como <b>Unity</b> y <b>Más</b>.  
 </p>
 
 ---
