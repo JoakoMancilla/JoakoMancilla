@@ -24,7 +24,7 @@ Me encuentro en un proceso constante de aprendizaje, explorando tecnologías com
 
 ---
 
-## 💻 Tecnologías que manejo
+ 💻 Tecnologías que manejo
 
 <div align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -39,7 +39,7 @@ Me encuentro en un proceso constante de aprendizaje, explorando tecnologías com
 
 ---
 
-## 🛠️ Herramientas y software
+ 🛠️ Herramientas y software
 
 <div align="center">
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
