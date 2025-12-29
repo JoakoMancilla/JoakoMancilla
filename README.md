@@ -8,7 +8,7 @@
 
 ---
 <p>
- Visita Mi Protafolio! <a href="#"><img alt="Portafoilio" src="https://joakomancilla.github.io/Portafolio/"/>Portafoilio</a>
+ Visita Mi Protafolio! <a href="https://joakomancilla.github.io/Portafolio/">Portafoilio</a>
 </p>
 
 
