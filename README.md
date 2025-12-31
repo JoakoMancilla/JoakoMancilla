@@ -22,8 +22,8 @@ Me encuentro en un proceso constante de aprendizaje, explorando tecnologías com
 ## 🚀 Estadísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoakoMancilla&show_icons=true&hide_border=true&title_color=7A7ADB&icon_color=6969C0&text_color=D3D3D3&bg_color=0,000000,130F40"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoakoMancilla&layout=compact&langs_count=10&hide_border=true&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoakoMancilla&show_icons=true&hide_border=true&title_color=7A7ADB&icon_color=6969C0&text_color=D3D3D3&bg_color=0,000000,130F40" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoakoMancilla&layout=compact&langs_count=10&hide_border=true&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40" />
 </p>
 
 ---
