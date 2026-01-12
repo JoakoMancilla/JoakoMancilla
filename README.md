@@ -22,8 +22,8 @@ Me encuentro en un proceso constante de aprendizaje, explorando tecnologías com
 ## 🚀 Estadísticas
 
 <p align= "center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoakoMancilla&show_icons=true&hide_border=true&title_color=7A7ADB&icon_color=6969C0&text_color=D3D3D3&bg_color=0,000000,130F40" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoakoMancilla&layout=compact&langs_count=10&hide_border=true&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoakoMancilla&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoakoMancilla&theme=tokyonight" />
 </p>
 
 ---
@@ -39,6 +39,7 @@ Me encuentro en un proceso constante de aprendizaje, explorando tecnologías com
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwind_css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </div>
 
 ---
