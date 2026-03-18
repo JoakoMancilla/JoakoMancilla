@@ -14,11 +14,15 @@
 
 </div>
 
----
+
+
+<br>
 
 ## 🙋 Sobre mí
 
 > Soy **Joaquín Mancilla**, estudiante de Ingeniería en Informática apasionado por el desarrollo web full-stack y la creación de videojuegos. Actualmente explorando el mundo de la **Inteligencia Artificial** con agentes RAG y LLMs, construyendo experiencias tanto en la web como en motores de juego.
+
+<br>
 
 ---
 
@@ -41,7 +45,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
@@ -49,11 +52,13 @@
 ## 🤖 Inteligencia Artificial
 
 <div align="center">
-
+ 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Agents-764ba2?style=for-the-badge&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-667eea?style=for-the-badge&logo=anthropic&logoColor=white)
-
+![LangGraph](https://img.shields.io/badge/LangGraph-764ba2?style=for-the-badge&logo=langchain&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-667eea?style=for-the-badge&logo=statuspage&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Agents-4f46e5?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-7c3aed?style=for-the-badge&logo=anthropic&logoColor=white)
+ 
 </div>
 
 ## 🎮 Game Development
@@ -61,7 +66,7 @@
 <div align="center">
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-764ba2?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 </div>
 
