@@ -1,61 +1,95 @@
 <div align="center">
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=ffffff&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=¡Hola!+Bienvenido+a+mi+GitHub+👾)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&width=500&lines=+%24+whoami;Joaqu%C3%ADn+Mancilla+%F0%9F%91%BE;Dev+%7C+Game+Maker+%7C+AI+Builder;Just+a+human+learning...)](https://git.io/typing-svg)
 
 </div>
 
-<div align="left">
+```bash
+┌──(joako㉿github)-[~/profile]
+└─$ cat about.json
+```
 
----
-<p>
- Visita Mi Protafolio! -->  <a href="https://joakomancilla.github.io/Portafolio/">Visitar!</a>
-</p>
-
-
-<p>
-Soy <b>Joaquin Mancilla</b>, estudiante de Ingeniería en Informática apasionado por el desarrollo web y la creación de videojuegos.  
-Me encuentro en un proceso constante de aprendizaje, explorando tecnologías como <b>React</b>, <b>Python</b>, <b>MongoDB</b>, <b>Javascript</b>, <b>Django</b>, motores como <b>Unity</b> y <b>Más</b>.  
-</p>
-
----
-
-## 🚀 Estadísticas
-
-<p align= "center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoakoMancilla&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoakoMancilla&theme=tokyonight" />
-</p>
+```json
+{
+  "nombre":    "Joaquín Mancilla",
+  "rol":       "Analista Programador",
+  "estudio":   "Ingeniería en Informática",
+  "ubicacion": "Chile 🇨🇱",
+  "intereses": ["Desarrollo Web", "Videojuegos", "Inteligencia Artificial"],
+  "estado":    "Just a human learning! 🚀",
+  "portafolio": "https://joakomancilla.github.io/Portafolio/"
+}
+```
 
 ---
 
- 💻 Tecnologías que manejo
+```bash
+┌──(joako㉿github)-[~/profile]
+└─$ cat skills.sh
+```
+
+```bash
+#!/bin/bash
+
+# ── Web Frontend ─────────────────────────────────────────────
+WEB_FRONTEND=("HTML5" "CSS3" "JavaScript" "React" "Tailwind CSS" "Bootstrap")
+
+# ── Backend ──────────────────────────────────────────────────
+BACKEND=("Python" "Django" "FastAPI" "MongoDB")
+
+# ── Inteligencia Artificial ───────────────────────────────────
+AI=("LangChain" "RAG Agents" "LLMs")
+
+# ── Game Development ──────────────────────────────────────────
+GAMEDEV=("Unity" "C#")
+
+# ── DevOps & Tools ────────────────────────────────────────────
+DEVOPS=("Docker" "Git" "Linux" "VS Code" "SQL Developer")
+```
+
+---
+
+```bash
+┌──(joako㉿github)-[~/profile]
+└─$ ls -la projects/
+```
+
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| [🤖 IA-Agent](https://github.com/JoakoMancilla/IA-Agent) | Agente IA con RAG para consulta de documentos | `Python` `LangChain` |
+| [🎮 2D Pixel Game](https://github.com/JoakoMancilla/2D-Pixel-Game-Unity) | Juego pixel art en mundo post-apocalíptico | `Unity` `C#` |
+| [🏥 App Salud](https://github.com/JoakoMancilla/Proyecto_AppSalud) | Gestión médica con múltiples perfiles de usuario | `Django` `Python` |
+| [🍫 Landing Chocolatería](https://github.com/JoakoMancilla/Landing-Chocolateria) | Landing page para emprendimiento local | `JavaScript` |
+| [📖 PokéDex React](https://github.com/JoakoMancilla/Poke-Dex-React) | Pokédex con PokéAPI, hooks y Tailwind | `React` `Tailwind` |
+| [🧟 Zombie Shooter 3D](https://github.com/JoakoMancilla/3D-Videogame-Zombie-Shooter) | Shooter 3D de supervivencia contra zombies | `Unity` `C#` |
+
+---
+
+```bash
+┌──(joako㉿github)-[~/profile]
+└─$ ./stats.sh --username JoakoMancilla
+```
 
 <div align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwind_css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoakoMancilla&theme=github_dark" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoakoMancilla&theme=github_dark" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoakoMancilla&theme=github_dark" />
 </div>
 
 ---
 
- 🛠️ Herramientas y software
-
 <div align="center">
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-  &nbsp;&nbsp;
-  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
-  &nbsp;&nbsp;
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/visual_studio_code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
-  &nbsp;&nbsp;
-  <a href="#"><img alt="SQL Developer" src="https://img.shields.io/badge/sql_developer-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
-  &nbsp;&nbsp;
-  <a href="#"><img alt="Unity" src="https://img.shields.io/badge/unity-100000?style=for-the-badge&logo=unity&logoColor=white" /></a>
-</div>
+
+```bash
+┌──(joako㉿github)-[~/profile]
+└─$ echo "Gracias por visitar mi perfil!" && exit 0
+Gracias por visitar mi perfil! █
+```
+
+[![Portafolio](https://img.shields.io/badge/🌐_Portafolio-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=161B22)](https://joakomancilla.github.io/Portafolio/)
+&nbsp;
+![Visitas](https://komarev.com/ghpvc/?username=JoakoMancilla&style=for-the-badge&color=00FF41&labelColor=0D1117&label=VISITAS)
 
 </div>
