@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Joaquín%20Mancilla&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Dev%20·%20Game%20Maker%20·%20AI%20Builder&descAlignY=58&descSize=18&descColor=ffffffcc&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=20&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&width=440&lines=Apasionado+por+el+desarrollo+web+🌐;Construyendo+experiencias+con+IA+🤖;Creando+mundos+con+Unity+🎮;Just+a+human+learning...+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=20&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&width=440&lines=Apasionado+por+el+desarrollo+web+🌐;Construyendo+experiencias+con+IA+🤖;Creando+mundos+con+Unity+🎮;Just+a+human+learning...+)](https://git.io/typing-svg)
 
 <br/>
 
