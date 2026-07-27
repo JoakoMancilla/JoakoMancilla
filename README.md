@@ -1,6 +1,9 @@
 <div align="center">
 
+<!-- Hedader -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:a78bfa&height=200&section=header&text=Joaquín%20Mancilla&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20AI%20Developer%20·%20Game%20Maker&descAlignY=58&descSize=16&descColor=ffffffcc&animation=fadeIn" />
+
+<div align="center"> <img src="terminal-header.svg" width="100%" alt="terminal" /> <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%26+AI+Developer+%F0%9F%92%BB;Construyendo+agentes+LLM+con+LangChain+%F0%9F%A4%96;Sistemas+RAG+con+pgvector+%2B+embeddings+%F0%9F%94%8D;Creando+mundos+con+Unity+%F0%9F%8E%AE;Just+a+human+learning...)](https://git.io/typing-svg)
 
