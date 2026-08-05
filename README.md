@@ -48,12 +48,12 @@
 
 <div align="center">
 
-![LangChain](https://img.shields.io/badge/LangChain-7c3aed?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-7c3aed?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20%2B%20pgvector-7c3aed?style=for-the-badge&logoColor=white)
-![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-7c3aed?style=for-the-badge&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7c3aed?style=for-the-badge&logoColor=white)
-![Langfuse](https://img.shields.io/badge/Langfuse-7c3aed?style=for-the-badge&logo=statuspage&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20%2B%20pgvector-6D4AFF?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-7C3AED?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-9333EA?style=for-the-badge&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-FF6B35?style=for-the-badge&logo=statuspage&logoColor=white)
 
 </div>
 
@@ -61,13 +61,13 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-4f46e5?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-4f46e5?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-4f46e5?style=for-the-badge&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-4f46e5?style=for-the-badge&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4f46e5?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-4f46e5?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4f46e5?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-4B5563?style=for-the-badge&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
@@ -75,11 +75,11 @@
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-667eea?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-667eea?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-667eea?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-667eea?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-667eea?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 </div>
 
@@ -87,14 +87,14 @@
 
 <div align="center">
 
-![Docker](https://img.shields.io/badge/Docker-6d28d9?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-6d28d9?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-6d28d9?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-6d28d9?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-6d28d9?style=for-the-badge&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-6d28d9?style=for-the-badge&logo=openai&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-6d28d9?style=for-the-badge&logoColor=white)
-![Context7](https://img.shields.io/badge/MCP%20Context7-6d28d9?style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-8B5CF6?style=for-the-badge)
+![Context7](https://img.shields.io/badge/Context7-4F46E5?style=for-the-badge)
 
 </div>
 
@@ -102,8 +102,8 @@
 
 <div align="center">
 
-![Unity](https://img.shields.io/badge/Unity-8b5cf6?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-8b5cf6?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
 </div>
 
