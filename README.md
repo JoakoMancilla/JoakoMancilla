@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hedader -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:a78bfa&height=200&section=header&text=Joaquín%20Mancilla&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20AI%20Developer%20·%20Game%20Maker&descAlignY=58&descSize=16&descColor=ffffffcc&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:a78bfa&height=200&section=header&text=Joaquín%20Mancilla&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20AI%20Developer%20&descAlignY=58&descSize=16&descColor=ffffffcc&animation=fadeIn" />
 
 <div align="center"> <img src="terminal-header.svg" width="100%" alt="terminal" /> <br/>
 
