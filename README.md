@@ -21,10 +21,12 @@
 
 <br>
 
-> [!NOTE]
-> Soy **Joaquín Mancilla**, Analista Programador titulado y estudiante de Ingeniería en Informática en INACAP.
-> Trabajo como **Full Stack Developer / AI Developer** en una startup de Inteligencia Artificial, diseñando agentes LLM con **LangChain** y **LangGraph**, sistemas **RAG** sobre **PostgreSQL + pgvector** y APIs con **FastAPI**.
-> Cuando no estoy construyendo agentes, probablemente esté creando algo en **Unity**.
+>
+> Soy **Joaquín Mancilla**, **Full Stack Developer / AI Developer** especializado en el desarrollo de soluciones impulsadas por IA.
+>
+> Trabajo diseñando agentes LLM con **LangChain** y **LangGraph**, sistemas **RAG**, APIs con **FastAPI** e integraciones backend utilizando **Python** y **PostgreSQL**.
+>
+> También desarrollo proyectos personales con **Unity** y actualmente continúo mi formación en **Ingeniería en Informática**.
 
 <br>
 
@@ -32,7 +34,7 @@
 
 ## 💼 Experiencia
 
-**Full Stack Developer / AI Developer** — Startup de Inteligencia Artificial · *Enero 2026 – Actualidad*
+**Full Stack Developer / AI Developer** — Startup de Inteligencia Artificial · *Junio 2025 – Actualidad*
 
 - 🧠 Diseño e implementación de agentes LLM con **LangChain** (arquitecturas StateGraph & Functional API)
 - 🔍 Desarrollo de sistemas **RAG** mediante embeddings sobre **PostgreSQL + pgvector**
@@ -123,36 +125,44 @@
 
 </div>
 
-**Arquitectura del sistema multi-agente (IA-Agent):**
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#7c3aed','primaryTextColor':'#ffffff','primaryBorderColor':'#4f46e5','lineColor':'#667eea','secondaryColor':'#a78bfa','tertiaryColor':'#1e1b4b'}}}%%
-flowchart LR
-    U[Usuario] --> S{Agente Supervisor}
-    S -->|Consulta documentos| RAG[Agente RAG<br/>pgvector + embeddings]
-    S -->|Búsqueda actual| WEB[Agente Web Search]
-    S -->|Cálculos| MATH[Agente Matemático]
-    S -->|Archivos| FILE[Agente de Archivos]
-    RAG --> OBS[(Langfuse<br/>Observabilidad)]
-    WEB --> OBS
-    MATH --> OBS
-    FILE --> OBS
-```
-
 ---
 
+<!--
 ## 🚀 Estadísticas
 
+> Temporalmente deshabilitadas debido a problemas de disponibilidad del servicio
+> github-readme-stats. Cuando vuelva a estar estable o despliegue una instancia
+> propia, simplemente descomentar este bloque.
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoakoMancilla&theme=tokyonight" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoakoMancilla&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoakoMancilla&show_icons=true&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=7c3aed&text_color=e5e7eb&ring_color=7c3aed" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoakoMancilla&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoakoMancilla&layout=compact&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=e5e7eb&langs_count=8" />
+</div>
+-->
+
+## 🚀 Actualmente
+
+<div align="center">
+
+| 🚧 Trabajando en | 📚 Aprendiendo | 🎯 Próximo objetivo |
+|:-----------------|:---------------|:--------------------|
+| Agentes LLM con LangChain y LangGraph | Arquitecturas Multi-Agent & MCP | Profundizar en IA aplicada y sistemas distribuidos |
+| Sistemas RAG con PostgreSQL + pgvector | Optimización de contexto para LLMs | Contribuir a proyectos Open Source |
+| APIs con FastAPI y Python | Clean Architecture y patrones de diseño | Seguir desarrollando videojuegos en Unity |
+
 </div>
 
----
+### 💡 Áreas de interés
 
+- 🤖 Inteligencia Artificial aplicada
+- 🧠 Agentes LLM y Tool Calling
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚡ Backend Development
+- ☁️ Arquitecturas escalables
+- 🎮 Desarrollo de videojuegos con Unity
+
+---
 <div align="center">
 
 *💭 "Just a human learning!"*
