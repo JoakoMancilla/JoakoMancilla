@@ -68,6 +68,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
 
 </div>
 
@@ -116,12 +118,12 @@
 | &nbsp; | Proyecto | Descripción | Stack |
 |:--:|----------|-------------|-------|
 | 🤖 | [IA-Agent](https://github.com/JoakoMancilla/IA-Agent) | Sistema multi-agente con supervisor, RAG (PostgreSQL + pgvector) y observabilidad de trazas con Langfuse | `Python` `LangChain` `LangGraph` |
+| 📊 | [Gestor-APP](https://github.com/JoakoMancilla/Gestor-APP) | Gestor de proyectos intuitivo para equipos pequeños, con tablero Kanban interactivo (drag & drop), dashboard de métricas y autenticación | `Laravel` `React` `TypeScript` |
 | 🏥 | [App Salud](https://github.com/JoakoMancilla/Proyecto_AppSalud) | API REST con Django REST Framework, autenticación por roles y gestión de registros clínicos | `Django` `Python` |
-| ✈️ | [Aeropuerto Express](https://aeropuertoexpress.cl/) *(Freelance)* | Sitio web corporativo para cliente real, desarrollado con WordPress y Divi | `WordPress` `Divi` |
-| 🍫 | [Landing Chocolatería](https://github.com/JoakoMancilla/Landing-Chocolateria) | Landing page para emprendimiento local | `JavaScript` |
+| 🎫 | [TicketFlow-MVP](https://github.com/JoakoMancilla/TicketFlow-MVP) | Sistema de gestión de tickets con API REST, dashboard con estadísticas, vista Kanban y modos claro/oscuro, orquestado con Docker | `Laravel` `React` `Tailwind` |
+| ✈️ | [Aeropuerto Express](https://aeropuertoexpress.cl/) | Sitio web corporativo para cliente real, desarrollado con WordPress y Divi | `WordPress` `Divi` |
 | 📖 | [PokéDex React](https://github.com/JoakoMancilla/Poke-Dex-React) | Pokédex consumiendo PokéAPI con hooks y Tailwind | `React` `Tailwind` |
 | 🧟 | [Zombie Shooter 3D](https://github.com/JoakoMancilla/3D-Videogame-Zombie-Shooter) | Shooter 3D de supervivencia con NavMesh, físicas y cámaras dinámicas (Cinemachine) | `Unity` `C#` |
-| 🕹️ | [2D Pixel Game](https://github.com/JoakoMancilla/2D-Pixel-Game-Unity) | Juego de acción pixel art en mundo post-apocalíptico | `Unity` `C#` |
 
 </div>
 
